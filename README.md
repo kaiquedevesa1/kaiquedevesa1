@@ -1,5 +1,5 @@
 ## Olá! Eu sou Kaique Devesa👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedevesa1&hide_progress=false&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedevesa1&hide_progress=false&layout=compact&theme=radical)
 
 
 - 🔭 I’m currently working on ...
