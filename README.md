@@ -1,19 +1,5 @@
 ## Olá! Eu sou Kaique Devesa👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1)](https://github.com/kaiquedevesa1/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show_icons=true&theme=dark)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
