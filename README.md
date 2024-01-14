@@ -1,9 +1,9 @@
-### Hi there 👋
+## Olá! Eu sou Kaique Devesa👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1)](https://github.com/kaiquedevesa1/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&hide=contribs,prs)
-Here are some ideas to get you started:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
