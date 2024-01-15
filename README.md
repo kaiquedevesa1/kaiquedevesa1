@@ -1,4 +1,4 @@
-## Olá! Eu sou Kaique Devesa👋
+## Olá! Eu sou Kaique Devesa👋 estou no inicio da minha carreira de programação 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquedevesa1&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedevesa1&hide_progress=false&layout=compact&theme=tokyonight)
 
 
