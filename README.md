@@ -24,5 +24,5 @@
 
 
 - 🔭 Atualmente faço projetos próprios para aprendizado
-- 🌱 Estou aprendendo: HTML e CSS.
+- 🌱 Estou utilizando HTML, CSS e JavaScript pra fazer os projetos.
 - ⚡ Fato legal: Sei montar um cubo mágico.
